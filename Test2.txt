@@ -1,1 +1,2 @@
 Hello created from branch2
+New line
